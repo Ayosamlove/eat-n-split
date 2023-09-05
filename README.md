@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-##Eat and split project
+## Share a meal with your friends and also share the bill with them.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
